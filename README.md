@@ -2,7 +2,7 @@
 <h3 align="center"> A Software Engineer 👨‍💻, QA Passionate, Security Enthusiastic.</h3> <br> 
 
 
-- 🔭 I’m currently working as Specialist in SQA at 10minuteschool.com
+- 🔭 I’m currently working as a Specialist Engineer in SQA at **[10minuteschool.com](https://10minuteschool.com/)**
 - 🌱 I’m currently learning about Load testing and Security testing 
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with learning security terms and theory
