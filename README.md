@@ -9,7 +9,6 @@
 - 💬 Ask me about **Manual testing, Automation testing with Selenium, API and Load Testing**
 - 📫 How to reach me: **Shazzadur.cse@gmail.com**
 
-- 📄 Know about my experiences: [Click on this CV link](https://drive.google.com/file/d/1kJAQpnCDJMfrYoVHtpRW_fEkMtU-xLoq/view?usp=sharing)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazzadur007&label=Profile%20views&color=green&style=flat" alt="shazzadur007" /> </p>
